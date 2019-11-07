@@ -1,0 +1,38 @@
+/*step 1*/
+
+
+
+.banner{
+  padding:200px;
+  background-size: cover;
+}
+.banner img{
+  object-fit: cover;
+}
+
+.container h1{
+  color:white;
+  font-weight: 700;
+}
+
+.container p{
+  color:white;
+  margin: 0,20px;
+  opacity: 0.7;
+}
+
+.btn-green{
+  border-radius: 50px;
+  background-color: #1EDD88;
+  color:white;
+  font-size: 16px;
+  padding: 16px 36px;
+  text-decoration: none;
+  color:white;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.btn-green a:hover{
+  opacity: 0.5;
+}

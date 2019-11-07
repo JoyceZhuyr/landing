@@ -1,0 +1,27 @@
+/*step 2*/
+.howitworks{
+  padding: 10px;
+  text-align: center;
+}
+
+.card123{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.cards img{
+  height: 100px;
+}
+
+.container .cards p{
+  color: black;
+  opacity: 0.5;
+}
+.cards{
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding:40px;
+  text-align: center;
+  margin: 40px;
+}
